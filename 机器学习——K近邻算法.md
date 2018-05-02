@@ -261,7 +261,7 @@ classify_person()
 
 ##### 输出
 
-```python
+```cmd
 percentage of time spent playing vedio games?20
 frequent flier miles earned per year?299
 liters of ice cream consumed per year?1
