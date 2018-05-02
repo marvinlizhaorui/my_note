@@ -164,7 +164,7 @@ plt.show()
 
 ##### 归一化特征值
 
-<center>newValue=(oldValue−min)/(max−min)</center>
+<html><center>newValue=(oldValue−min)/(max−min)</center></html>
 
 ```python
 def auto_num(data_set):
